@@ -13,3 +13,4 @@ cmake -S . -B build-release -DCMAKE_BUILD_TYPE=Release -DCMAKE_CXX_FLAGS="-Wall 
 ./build-debug/apps/bench_matrix      # эксперимент C
 ./build-debug/apps/bench_layout      # эксперимент D
 ```
+# kdz1-matrix
